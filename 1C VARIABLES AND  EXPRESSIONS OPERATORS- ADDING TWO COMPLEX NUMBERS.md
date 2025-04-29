@@ -12,14 +12,15 @@ To write a Python program for adding two complex numbers, and get the user input
 6. Terminate the program.
 
 ## PROGRAM
-```python
-# Reg.No-
-#Name-
-#Write your code here
 
-```
+c1=2+3j
+c2=4+7j
+
+c3=c1+c2
+print(c3)
 
 ## OUTPUT
+![image](https://github.com/user-attachments/assets/5cbb502f-8c3b-4816-b4fd-4ab8493d76c4)
 
 
 ## RESULT
