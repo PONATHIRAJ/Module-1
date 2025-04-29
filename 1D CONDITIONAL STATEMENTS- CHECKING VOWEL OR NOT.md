@@ -20,10 +20,10 @@ if char_lower in ['a', 'e', 'i', 'o', 'u']:
     print("The given character is a vowel")
 else:
     print("The given character is NOT a vowel")
-```
+
 
 ## OUTPUT
-![image](https://github.com/user-attachments/assets/78efb7f8-2625-4458-a5b3-bedcb262c86a)
+![image](https://github.com/user-attachments/assets/d3dfa33d-37a3-40d5-9fec-f247b765f05d)
 
 ## RESULT
 Thus the Python program to check whether the given character is a vowel or not using if..else statement is succesfully implemented and executed.
